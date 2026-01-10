@@ -1,4 +1,4 @@
-# SecureCTRL - Encrypted Command & Control Framework
+# SecureC2Lite - Encrypted Command & Control Framework
 
 SecureCTRL is a lightweight, encrypted command and control (C2) framework written in Python. It uses symmetric encryption (Fernet from the Cryptography library) to securely send commands from a controller (server) to a client agent and receive encrypted responses. 
 
